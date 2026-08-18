@@ -1,1 +1,1 @@
-# FER-at-SemEval-2026-Task6-Analysis-of-Different-Approaches-to-Unmasking-Political-Question-Evasions
+SemEval-2026 Task 6 (ACL): detecting political question evasion - code for our paper
